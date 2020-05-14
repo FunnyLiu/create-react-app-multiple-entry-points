@@ -1,0 +1,22 @@
+{
+  "appPages": [
+    {
+      "name": "index",
+      "title": "index",
+      "appHtml": "public/index/index.html",
+      "appIndexJs": "src/pages/test1/index"
+    },
+    {
+      "name": "login",
+      "title": "login",
+      "appHtml": "public/login/login.html",
+      "appIndexJs": "src/pages/test2/login"
+    },
+    {
+      "name": "todomvc",
+      "title": "todomvc",
+      "appHtml": "public/todomvc/index.html",
+      "appIndexJs": "src/pages/todomvc/index"
+    }
+  ]
+}
