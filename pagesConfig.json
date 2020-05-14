@@ -17,6 +17,12 @@
       "title": "todomvc",
       "appHtml": "public/todomvc/index.html",
       "appIndexJs": "src/pages/todomvc/index"
+    },
+    {
+      "name": "testPage",
+      "title": "testPage",
+      "appHtml": "public/testPage/index.html",
+      "appIndexJs": "src/pages/testPage/index"
     }
   ]
 }
